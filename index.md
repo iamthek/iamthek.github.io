@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to 孔
 
 You can use the [editor on GitHub](https://github.com/iamthek/myGitHub/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
